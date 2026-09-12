@@ -19,4 +19,3 @@ The local development server simulates ChatGPT sign-in. Production identity is s
 
 ## Photo credit
 Garden cat photograph by Bailey Burton on Unsplash, https://unsplash.com/photos/d9ZwnNLvjuo (Unsplash License).
-

@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="shell"><h1>This cat wandered off.</h1><p>That profile doesn’t exist. Check the link or head back to your journal.</p><a className="primary" href="/">Back to journal</a></main>;}
