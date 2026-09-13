@@ -7,6 +7,7 @@ A responsive cat journal built with React, Vinext and Cloudflare Workers.
 - Camera capture and up to six photos per cat
 - Multiple names, location capture or manual place entry, and notes
 - Account-owned journals with public profile links
+- Edit locations and details, remove photos, and delete your own cat profiles
 - Native phone sharing, WhatsApp, email and copy link
 - D1 records and R2 photo storage
 
@@ -19,3 +20,4 @@ The local development server simulates ChatGPT sign-in. Production identity is s
 
 ## Photo credit
 Garden cat photograph by Bailey Burton on Unsplash, https://unsplash.com/photos/d9ZwnNLvjuo (Unsplash License).
+
